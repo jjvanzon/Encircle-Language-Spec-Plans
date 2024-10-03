@@ -19,11 +19,12 @@ __Contents__
 
 #### 2023-11-16
 
-- [ ] Concent Reorganization:
+- [ ] __Concent Reorganization__
     - [ ] Merge conceptual and diagram explanation
     - [ ] Remove repeated info
     - [ ] Stereotyping text fragments ?
     - [ ] Merge into one article
+    - [ ] Scale pictures
 - [ ] Reformulations
 
 ### Postponed
